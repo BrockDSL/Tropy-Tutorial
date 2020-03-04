@@ -1,21 +1,8 @@
 ![DSL Logo][dsllogo]
 
 
-# Title
-Description of contents
-
-### First header
-Content
-
-### Second Header
-
-Content
-
-### Etc.
- 
- 
- 
-
+# Tropy
+A tutorial on the use of the Tropy tool
 
 
 
