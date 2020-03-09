@@ -2,10 +2,9 @@
 
 
 # Research Photo Management with Tropy 
-Adapted from NCSU Libraries Digital Scholarship Workshop Series Available at: [https://github.com/NCSU-Libraries/digital-scholarship-workshops](https://github.com/NCSU-Libraries/digital-scholarship-workshops)
+Adapted by our colleague John Dingle from NCSU Libraries Digital Scholarship Workshop Series Available at: [https://github.com/NCSU-Libraries/digital-scholarship-workshops](https://github.com/NCSU-Libraries/digital-scholarship-workshops)
 
-## Setup: Download & Load Photos 
-
+## Setup: Download & Load Photos
 - Download this repository as a zip file by clicking [this link](https://github.com/BrockDSL/Tropy-Tutorial/archive/master.zip)
 - Unzip the file.
 - Download Tropy at [https://tropy.org](https://tropy.org)
@@ -24,8 +23,7 @@ Adapted from NCSU Libraries Digital Scholarship Workshop Series Available at: [h
 
 
 ## Grid & List View
-
-- You can view your items in a list or in a photo grid. To switch between these views, use the slider at the top of the item table. Your photos appear as a list when the slider is all the way to the left.  
+You can view your items in a list or in a photo grid. To switch between these views, use the slider at the top of the item table. Your photos appear as a list when the slider is all the way to the left.  
 
 ![Images made bigger using slider][tutimg4]
 
@@ -52,7 +50,6 @@ You can also adjust various settings on your photos to make them more legible. T
 > Many of the images need to be rotated (eg. IMG_20200228_141218.jpg). Go through and rotate as many as you can in 2 minutes. 
   
 ## Adding Metadata
-
 In Tropy, you can add Metadata for each item. Metadata can be as freeform as you want. But it’s generally best to try to record metadata using a standard that already exists. Why? Metadata standards provide consistency both within your own projects and also in the larger community of scholarship about your sources. Each category in a Tropy metadata template must be linked to a category (property) from an existing metadata standard. Tropy uses the Dublin Core metadata schema. If you would like to learn more about Dublin Core, visit [http://dublincore.org/documents/dces/](http://dublincore.org/documents/dces/)
 
 At present you can only use each property once in a template. Several standards, or vocabularies, are included in Tropy. Tropy defaults to the “Tropy Generic” Metadata template, but you can select other metadata templates, such as the Tropy Correspondence template. The “Tropy Generic” Metadata template includes the following fields:
@@ -68,28 +65,99 @@ At present you can only use each property once in a template. Several standards,
 - Identifier: is a call number or URL at which a source can be found. This field could also be used to include a link to an online finding aid for a collection.  
 - Rights: is information about how you, a researcher, can use each item. This can include copyright information, as well as specific information from the archive where the image came from. Where possible, best practice is to include a link/URL to the information on rights provided by the archive or library where the source is located.
 
+## Editing Metadata in Bulk
+- You can edit the metadata for multiple items at a time.  
+- Ctrl/Command+click on each item you want to edit; then type your metadata into the metadata pane on the right hand side. You may want to do this for the Archive, Creator, and Date fields.  
+- To select a large group, press Shift, then select the last item of the group you want to select. The metadata you input will be applied to all items you have selected.  
+- To select everything in the item table, press Ctrl/Command+A.  
+
+
 > ### Activity 2
 > Press Shift and select the first 8 images. Add the following bulk metadata:
 >
-> Title:
+> - Title:
+> - Creator:
+> - Date:
+> - Type:
+> - Archive: Brock Archives & Special Collections
+> - Collection: Seburn Family Fonds
+> - Box: 1
+> - Folder: 1
+> - Identifier: RG 627
+> - Rights: Current copyright applies
+> 
+> ![Image of the metatdata to be added][tutimg7]
+
+## Editing Metadata for an individual item
+To add or edit metadata to describe your item, click on it to select it.  In the metadata pane on the right hand side of the project view, select a template from the pull-down menu. Then you have several options for adding information.  
+
+> ### Activity 3
+> Select IMG_20200228_141752 and Tropy Generic Metadata on the right hand side of the project view then add the following Metadata fields:
 >
-> Creator:
->
-> Date:
->
-> Type:
->
-> Archive: Brock Archives & Special Collections
->
-> Collection: Seburn Family Fonds
->
-> Box: 1
->
-> Folder: 1
->
-> Identifier: RG 627
->
-> Rights: Current copyright applies
+> - Title: Will of Jacob Seburn
+> - Creator: Seburn, Jacob
+> - Date: 1869-09-06
+> - Type: Will
+> - Archive: Brock Archives & Special Collections
+> - Collection: Seburn Family Fonds
+> - Box: 1
+> - Folder: 6
+> - Identifier: RG 627
+> - Rights: Current copyright applies
+
+## Adding Tags
+In the tags tab of the metadata pane, click Add Tag to Item, and then start typing a tag, and you will see suggestions of existing tags to autocomplete. 
+
+> ### Activity 4
+> Browse through the collection. Identify at least 3 tags that would potentially help you to find items in the collection in the future and add these to the relevant items
+
+## Creating a multi-image item
+Hold down the Command/Ctrl key, then click on each image. Right-click, then click Merge selected items from the drop-down menu. Alternatively, drag and drop images on top of one another to create a multi-page document.  
+
+> ### Activity 5
+> Merge these images into a single item:
+> - IMG_20200228_142110
+> - IMG_20200228_142138
+> - IMG_20200228_142157
+> - IMG_20200228_142219
+> Add appropriate metadata for the created item.
+> Identify another set of images that should be merged into a single item and do so.
+
+## Lists & Annotations
+To create a new list to organize collection items, right click your project and then select New List and enter a title. The new list appears in the sidebar.  You can then drag and drop items to add them to the new list.
+
+> ### Activity 6
+> Create a list called “Wills”.
+> Add images from IMG_20200228_141554 to IMG_20200228_142219 to the list.
+> Identify another list that would be useful to create to help organize the content and do so
+
+To create a selection, click on the dashed rectangle button on the photo editing toolbar. Then draw a rectangle on your photo that includes the area you wish to select.  You can add annotations for the selected area.
+
+![Annotated selection example][tutimg8]
+
+## Searching for Items
+In the search bar at the top right, you can search by tag, metadata, and notes. Try searching by some of the tags and metadata you have added to your items and review the results.
+You can also sort results by the metadata columns available in the project view and list views.
+
+> ### Activity 7
+> Add date metadata to all items in the ‘Wills’ list, then sort by date from earliest to latest.
+
+## Exporting items from Tropy
+
+To export from Tropy, right-click on an item in the table. From the right-click menu, select Export Item > JSON-LD. This action will open a dialog box, where you can save  your JSON file onto your computer. To export multiple items, Ctrl/Command+click or Shift+click to select multiple items. Then right-click and select Export Selected Items.  
+At present, Tropy only exports metadata to JSON-LD, not associated photos. Your photos still exist outside Tropy as well, since importing in Tropy copies your photos.  
+JSON stands for JavaScript Object Notation. It is a very common interoperable syntax for exchanging data used for asynchronous browser–server communication. Use a text editor such as Text Wrangler, Notepad++, Atom or Brackets to open the JSON file.
+
+## Creating a new metadata template and adding properties
+Navigate to Tropy > Preferences and click to the Templates section. When you first open the Preferences pane, a New Template will be the default, but if you click over to one of the other templates, you can get back to New Template by clicking on it in the Template drop-down box or by clicking the first button next to the drop-down.  You must fill in the Name, Creator, Description and then click create.  You can then add more metadata properties relevant to your items.
+
+## Resources
+
+[Tropy Documentation](https://docs.tropy.org/#tropy) 
+[George Mason University Library Tropy Guide](https://infoguides.gmu.edu/tropy/)
+[Tropy Handout, Anna St. Onge (York University Library)](https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/36607/Handout-Tropy%20and%20Archival%20Fieldwork.pdf?sequence=3&isAllowed=y)
+
+
 
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
