@@ -145,8 +145,7 @@ You can also sort results by the metadata columns available in the project view 
 ## Exporting items from Tropy
 
 To export from Tropy, right-click on an item in the table. From the right-click menu, select Export Item > JSON-LD. This action will open a dialog box, where you can save  your JSON file onto your computer. To export multiple items, Ctrl/Command+click or Shift+click to select multiple items. Then right-click and select Export Selected Items.  
-At present, Tropy only exports metadata to JSON-LD, not associated photos. Your photos still exist outside Tropy as well, since importing in Tropy copies your photos.  
-JSON stands for JavaScript Object Notation. It is a very common interoperable syntax for exchanging data used for asynchronous browser–server communication. Use a text editor such as Text Wrangler, Notepad++, Atom or Brackets to open the JSON file.
+At present, Tropy only exports metadata to JSON-LD, not associated photos. Your photos still exist outside Tropy as well, since importing in Tropy copies your photos.  JSON stands for JavaScript Object Notation. It is a very common interoperable syntax for exchanging data used for asynchronous browser–server communication. Use a text editor such as Text Wrangler, Notepad++, Atom or Brackets to open the JSON file.
 
 ## Creating a new metadata template and adding properties
 Navigate to Tropy > Preferences and click to the Templates section. When you first open the Preferences pane, a New Template will be the default, but if you click over to one of the other templates, you can get back to New Template by clicking on it in the Template drop-down box or by clicking the first button next to the drop-down.  You must fill in the Name, Creator, Description and then click create.  You can then add more metadata properties relevant to your items.
@@ -154,7 +153,9 @@ Navigate to Tropy > Preferences and click to the Templates section. When you fir
 ## Resources
 
 [Tropy Documentation](https://docs.tropy.org/#tropy) 
+
 [George Mason University Library Tropy Guide](https://infoguides.gmu.edu/tropy/)
+
 [Tropy Handout, Anna St. Onge (York University Library)](https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/36607/Handout-Tropy%20and%20Archival%20Fieldwork.pdf?sequence=3&isAllowed=y)
 
 
