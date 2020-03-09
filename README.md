@@ -46,7 +46,7 @@ From left to right, the buttons are as follows:
 
 You can also adjust various settings on your photos to make them more legible. To access the advanced photo editing tools, click on the button on the far right of the photo editing panel.
 
-> ### Activity 1
+> **Activity 1**
 > Many of the images need to be rotated (eg. IMG_20200228_141218.jpg). Go through and rotate as many as you can in 2 minutes. 
   
 ## Adding Metadata
@@ -72,7 +72,7 @@ At present you can only use each property once in a template. Several standards,
 - To select everything in the item table, press Ctrl/Command+A.  
 
 
-> ### Activity 2
+> **Activity 2**
 > Press Shift and select the first 8 images. Add the following bulk metadata:
 >
 > - Title:
@@ -91,7 +91,7 @@ At present you can only use each property once in a template. Several standards,
 ## Editing Metadata for an individual item
 To add or edit metadata to describe your item, click on it to select it.  In the metadata pane on the right hand side of the project view, select a template from the pull-down menu. Then you have several options for adding information.  
 
-> ### Activity 3
+> **Activity 3**
 > Select IMG_20200228_141752 and Tropy Generic Metadata on the right hand side of the project view then add the following Metadata fields:
 >
 > - Title: Will of Jacob Seburn
@@ -108,13 +108,13 @@ To add or edit metadata to describe your item, click on it to select it.  In the
 ## Adding Tags
 In the tags tab of the metadata pane, click Add Tag to Item, and then start typing a tag, and you will see suggestions of existing tags to autocomplete. 
 
-> ### Activity 4
+> **Activity 4**
 > Browse through the collection. Identify at least 3 tags that would potentially help you to find items in the collection in the future and add these to the relevant items
 
 ## Creating a multi-image item
 Hold down the Command/Ctrl key, then click on each image. Right-click, then click Merge selected items from the drop-down menu. Alternatively, drag and drop images on top of one another to create a multi-page document.  
 
-> ### Activity 5
+> **Activity 5**
 > Merge these images into a single item:
 > - IMG_20200228_142110
 > - IMG_20200228_142138
@@ -126,7 +126,7 @@ Hold down the Command/Ctrl key, then click on each image. Right-click, then clic
 ## Lists & Annotations
 To create a new list to organize collection items, right click your project and then select New List and enter a title. The new list appears in the sidebar.  You can then drag and drop items to add them to the new list.
 
-> ### Activity 6
+> **Activity 6**
 > Create a list called “Wills”.
 > Add images from IMG_20200228_141554 to IMG_20200228_142219 to the list.
 > Identify another list that would be useful to create to help organize the content and do so
@@ -139,7 +139,7 @@ To create a selection, click on the dashed rectangle button on the photo editing
 In the search bar at the top right, you can search by tag, metadata, and notes. Try searching by some of the tags and metadata you have added to your items and review the results.
 You can also sort results by the metadata columns available in the project view and list views.
 
-> ### Activity 7
+> **Activity 7**
 > Add date metadata to all items in the ‘Wills’ list, then sort by date from earliest to latest.
 
 ## Exporting items from Tropy
