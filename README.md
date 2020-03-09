@@ -51,7 +51,45 @@ You can also adjust various settings on your photos to make them more legible. T
 > ### Activity 1
 > Many of the images need to be rotated (eg. IMG_20200228_141218.jpg). Go through and rotate as many as you can in 2 minutes. 
   
+## Adding Metadata
 
+In Tropy, you can add Metadata for each item. Metadata can be as freeform as you want. But it’s generally best to try to record metadata using a standard that already exists. Why? Metadata standards provide consistency both within your own projects and also in the larger community of scholarship about your sources. Each category in a Tropy metadata template must be linked to a category (property) from an existing metadata standard. Tropy uses the Dublin Core metadata schema. If you would like to learn more about Dublin Core, visit [http://dublincore.org/documents/dces/](http://dublincore.org/documents/dces/)
+
+At present you can only use each property once in a template. Several standards, or vocabularies, are included in Tropy. Tropy defaults to the “Tropy Generic” Metadata template, but you can select other metadata templates, such as the Tropy Correspondence template. The “Tropy Generic” Metadata template includes the following fields:
+
+- Title: Name of the source or essential description of the item  
+- Creator: Author of the source  
+- Date: Date the source was created. In order to effectively organize and find sources based on date, use a consistent date format like YYYY-MM-DD (known as ISO format). If the date is uncertain, use ~ before the date (e.g., ~1802, or ~1802-01-01)  
+- Type: Type or genre of source. For example, Correspondence.  
+- Archive: is the location at which the source can be found, (e.g., the Library of Congress or Brock Archives and Special Collections).
+- Collection: is the name of the collection of which the source is a part, (e.g. Seburn Family fonds). You should consult a catalog or finding aid to ensure that you use the correct title for a collection.  
+- Box: is the unit in the collection which the source can be found. This category may not be needed for all sources, as not all collections have boxes, so you may leave this field blank if not needed.  
+- Folder: is the folder (within a box) in which a source can found. This category may not be needed for all sources, as not all collections use folders as a form of organization, or label or number folders, so you may leave this field blank if not needed.  
+- Identifier: is a call number or URL at which a source can be found. This field could also be used to include a link to an online finding aid for a collection.  
+- Rights: is information about how you, a researcher, can use each item. This can include copyright information, as well as specific information from the archive where the image came from. Where possible, best practice is to include a link/URL to the information on rights provided by the archive or library where the source is located.
+
+> ### Activity 2
+> Press Shift and select the first 8 images. Add the following bulk metadata:
+>
+> Title:
+>
+> Creator:
+>
+> Date:
+>
+> Type:
+>
+> Archive: Brock Archives & Special Collections
+>
+> Collection: Seburn Family Fonds
+>
+> Box: 1
+>
+> Folder: 1
+>
+> Identifier: RG 627
+>
+> Rights: Current copyright applies
 
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
