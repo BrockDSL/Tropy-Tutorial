@@ -19,11 +19,11 @@ Adapted from NCSU Libraries Digital Scholarship Workshop Series Available at: ht
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
 [dsllogo]: dsl_logo.png
-[tutimg1]: tutorial_img_1
-[tutimg2]: tutorial_img_2
-[tutimg3]: tutorial_img_3
-[tutimg4]: tutorial_img_4
-[tutimg5]: tutorial_img_5
-[tutimg6]: tutorial_img_6
-[tutimg7]: tutorial_img_7
-[tutimg8]: tutorial_img_8
+[tutimg1]: Tutorial-Images/tutorial_img_1.png
+[tutimg2]: Tutorial-Images/tutorial_img_2.png
+[tutimg3]: Tutorial-Images/tutorial_img_3.png
+[tutimg4]: Tutorial-Images/tutorial_img_4.png
+[tutimg5]: Tutorial-Images/tutorial_img_5.png
+[tutimg6]: Tutorial-Images/tutorial_img_6.png
+[tutimg7]: Tutorial-Images/tutorial_img_7.png
+[tutimg8]: Tutorial-Images/tutorial_img_8.png
