@@ -4,15 +4,26 @@
 # Research Photo Management with Tropy 
 Adapted from NCSU Libraries Digital Scholarship Workshop Series Available at: https://github.com/NCSU-Libraries/digital-scholarship-workshops
 
-# Setup: Download & Load Photos 
+## Setup: Download & Load Photos 
 
 1. Download this repository as a zip file by clicking [this link](https://github.com/BrockDSL/Tropy-Tutorial/archive/master.zip)
 2. Unzip the file.
 3. Download Tropy at [https://tropy.org](https://tropy.org)
 4. Open Tropyfrom your Applications folder (Mac) or Programs folder (Windows). When you first start Tropy, you should see a window requesting you to Create a new project. In the future if you would like to create a new project, click File>New>Project.
 5. Add the nameof the collection you are working with for your research. For example, we will be working with the Seburn Family Collection, so enter “Seburn Family Research”
+![Image of new project screen][tutimg1]
+6. Now you are ready to add photos to your project. Navigate to File> Importphotos. You can select one photo from your files, or Ctrl/Command+A, you can select multiple photos. Select all photos in theSeburn Family folder, then click open in the dialogue box.
+![Image of multiple images being selected][tutimg2]
+7. Once you are in Tropy, if you need to find out where yourproject is saved,right-click on its name in the sidebar and select Show Project File.
+![Image of how to get to projects file][tutimg3]
 
 
+## Grid & List View
+
+- You can view your items in a list or in a photo grid. To switch between these views, use the slider at the top of the item table. Your photos appear as a list when the slider is all the way to the left.  
+![Images made bigger using slider][tutimg4]
+
+## Editing Photos
 
 
 
