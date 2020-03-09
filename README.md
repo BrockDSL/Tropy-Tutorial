@@ -2,7 +2,7 @@
 
 
 # Research Photo Management with Tropy 
-Adapted from NCSU Libraries Digital Scholarship Workshop Series Available at: https://github.com/NCSU-Libraries/digital-scholarship-workshops
+Adapted from NCSU Libraries Digital Scholarship Workshop Series Available at: [https://github.com/NCSU-Libraries/digital-scholarship-workshops](https://github.com/NCSU-Libraries/digital-scholarship-workshops)
 
 ## Setup: Download & Load Photos 
 
@@ -36,7 +36,7 @@ From left to right, the buttons are as follows:
 7. Fill: This button will fill your whole photo into the window.  
 8. Zoom slider: You can also manually zoom in or out on your photo.  
 
-[Photo settings panel][tutimg6]
+![Photo settings panel][tutimg6]
 
 You can also adjust various settings on your photos to make them more legible. To access the advanced photo editing tools, click on the button on the far right of the photo editing panel.
 
