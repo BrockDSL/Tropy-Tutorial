@@ -1,11 +1,10 @@
 ![DSL Logo][dsllogo]
 
 
-# Tropy
-A tutorial on the use of the Tropy tool
+# Research Photo Management with Tropy 
+Adapted from NCSU Libraries Digital Scholarship Workshop Series Available at: https://github.com/NCSU-Libraries/digital-scholarship-workshops
 
-
-
+# Setup: Download & Load Photos 
 
 
 
